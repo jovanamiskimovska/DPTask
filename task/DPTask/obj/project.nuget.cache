@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "y1ZZLlnOJb842ZxkuVMiaZzh/lg/T1Fii7CjlK5YoL1Zw9XRZBRXAALHM8uoCsLG3oa0fSglJ3SjbEs4UNjXBw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Miskimovski\\source\\repos\\DPTask\\DPTask.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Miskimovski\\.nuget\\packages\\grpc.core\\2.44.0\\grpc.core.2.44.0.nupkg.sha512",
+    "C:\\Users\\Miskimovski\\.nuget\\packages\\grpc.core.api\\2.44.0\\grpc.core.api.2.44.0.nupkg.sha512",
+    "C:\\Users\\Miskimovski\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
