@@ -1,0 +1,25 @@
+C:\Users\aleks\Desktop\Receipt Scanner\ReceiptScanner\ReceiptScanner.Services\bin\Debug\netcoreapp3.1\ReceiptScanner.Services.deps.json
+C:\Users\aleks\Desktop\Receipt Scanner\ReceiptScanner\ReceiptScanner.Services\bin\Debug\netcoreapp3.1\ReceiptScanner.Services.dll
+C:\Users\aleks\Desktop\Receipt Scanner\ReceiptScanner\ReceiptScanner.Services\bin\Debug\netcoreapp3.1\ReceiptScanner.Services.pdb
+C:\Users\aleks\Desktop\Receipt Scanner\ReceiptScanner\ReceiptScanner.Services\bin\Debug\netcoreapp3.1\ReceiptScanner.Domain.dll
+C:\Users\aleks\Desktop\Receipt Scanner\ReceiptScanner\ReceiptScanner.Services\bin\Debug\netcoreapp3.1\ReceiptScanner.Domain.pdb
+C:\Users\aleks\Desktop\Receipt Scanner\ReceiptScanner\ReceiptScanner.Services\obj\Debug\netcoreapp3.1\ReceiptScanner.Services.csproj.AssemblyReference.cache
+C:\Users\aleks\Desktop\Receipt Scanner\ReceiptScanner\ReceiptScanner.Services\obj\Debug\netcoreapp3.1\ReceiptScanner.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\Desktop\Receipt Scanner\ReceiptScanner\ReceiptScanner.Services\obj\Debug\netcoreapp3.1\ReceiptScanner.Services.AssemblyInfoInputs.cache
+C:\Users\aleks\Desktop\Receipt Scanner\ReceiptScanner\ReceiptScanner.Services\obj\Debug\netcoreapp3.1\ReceiptScanner.Services.AssemblyInfo.cs
+C:\Users\aleks\Desktop\Receipt Scanner\ReceiptScanner\ReceiptScanner.Services\obj\Debug\netcoreapp3.1\ReceiptScanner.Services.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\Receipt Scanner\ReceiptScanner\ReceiptScanner.Services\obj\Debug\netcoreapp3.1\ReceiptScanner.Services.csproj.CopyComplete
+C:\Users\aleks\Desktop\Receipt Scanner\ReceiptScanner\ReceiptScanner.Services\obj\Debug\netcoreapp3.1\ReceiptScanner.Services.dll
+C:\Users\aleks\Desktop\Receipt Scanner\ReceiptScanner\ReceiptScanner.Services\obj\Debug\netcoreapp3.1\ReceiptScanner.Services.pdb
+C:\Users\Miskimovski\OneDrive\Desktop\ReceiptScannerApplication\ReceiptScanner\ReceiptScanner.Services\bin\Debug\netcoreapp3.1\ReceiptScanner.Services.deps.json
+C:\Users\Miskimovski\OneDrive\Desktop\ReceiptScannerApplication\ReceiptScanner\ReceiptScanner.Services\bin\Debug\netcoreapp3.1\ReceiptScanner.Services.dll
+C:\Users\Miskimovski\OneDrive\Desktop\ReceiptScannerApplication\ReceiptScanner\ReceiptScanner.Services\bin\Debug\netcoreapp3.1\ReceiptScanner.Services.pdb
+C:\Users\Miskimovski\OneDrive\Desktop\ReceiptScannerApplication\ReceiptScanner\ReceiptScanner.Services\bin\Debug\netcoreapp3.1\ReceiptScanner.Domain.dll
+C:\Users\Miskimovski\OneDrive\Desktop\ReceiptScannerApplication\ReceiptScanner\ReceiptScanner.Services\bin\Debug\netcoreapp3.1\ReceiptScanner.Domain.pdb
+C:\Users\Miskimovski\OneDrive\Desktop\ReceiptScannerApplication\ReceiptScanner\ReceiptScanner.Services\obj\Debug\netcoreapp3.1\ReceiptScanner.Services.csproj.AssemblyReference.cache
+C:\Users\Miskimovski\OneDrive\Desktop\ReceiptScannerApplication\ReceiptScanner\ReceiptScanner.Services\obj\Debug\netcoreapp3.1\ReceiptScanner.Services.AssemblyInfoInputs.cache
+C:\Users\Miskimovski\OneDrive\Desktop\ReceiptScannerApplication\ReceiptScanner\ReceiptScanner.Services\obj\Debug\netcoreapp3.1\ReceiptScanner.Services.AssemblyInfo.cs
+C:\Users\Miskimovski\OneDrive\Desktop\ReceiptScannerApplication\ReceiptScanner\ReceiptScanner.Services\obj\Debug\netcoreapp3.1\ReceiptScanner.Services.csproj.CoreCompileInputs.cache
+C:\Users\Miskimovski\OneDrive\Desktop\ReceiptScannerApplication\ReceiptScanner\ReceiptScanner.Services\obj\Debug\netcoreapp3.1\ReceiptScanner.Services.csproj.CopyComplete
+C:\Users\Miskimovski\OneDrive\Desktop\ReceiptScannerApplication\ReceiptScanner\ReceiptScanner.Services\obj\Debug\netcoreapp3.1\ReceiptScanner.Services.dll
+C:\Users\Miskimovski\OneDrive\Desktop\ReceiptScannerApplication\ReceiptScanner\ReceiptScanner.Services\obj\Debug\netcoreapp3.1\ReceiptScanner.Services.pdb
